@@ -12,8 +12,8 @@ import (
 
 // Replace the following client ID and client secret with your own
 const (
-	clientID     = "484929026552-5n6gp7538o303ln4sdsno61bcmtdiq22.apps.googleusercontent.com"
-	clientSecret = "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"
+	clientID     = ""
+	clientSecret = ""
 )
 
 var (
